@@ -1,7 +1,3 @@
 # tomoshibi-technology.github.io
 
-## こ
-
-## ん
-
-## に
+## ロボットとともに開発中です！！
